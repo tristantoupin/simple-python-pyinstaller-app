@@ -1,4 +1,3 @@
-Some test
 # simple-python-pyinstaller-app
 
 This repository is for the
