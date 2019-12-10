@@ -1,3 +1,4 @@
+www
 # simple-python-pyinstaller-app
 
 This repository is for the
